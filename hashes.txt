@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Never Let Me Go
+
+This log tracks the cryptographic history and versioning for the song **Never Let Me Go** (never-let-me-go).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T06:17:45.168112 | `v1` | `2add52d0929172ad6cb1f0bb9999f9f6bb7b673f2e93d137bb28a52b4aedaaa6` | `e1ffca3bf3f54e6c123e7e29606ac5bf323998c2effff3da3ac921092692d12f` | `2026-05-26_never-let-me-go-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
