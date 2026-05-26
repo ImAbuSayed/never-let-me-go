@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/never-let-me-go/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Never Let Me Go](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/never-let-me-go/) |
+| **Get License** | [Get License For Never Let Me Go](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/never-let-me-go/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel your heartbeat racing in the dark
+> Lighting up the shadows with a sudden spark
+> Pull you closer baby, nowhere else to be
+> Let the whole world fade, it’s only you and me
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
